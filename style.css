@@ -10,7 +10,7 @@ html {
 }
 header {
   background: linear-gradient(to bottom, #20387a17, #20387a96),
-    url("/Images/Niloyan\ Sellathurai.png");
+    url("./Images/Niloyan\ Sellathurai.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
